@@ -1,4 +1,4 @@
-#BankAccount OOP Example
+# BankAccount OOP Example
 This project demonstrates the use of Object-Oriented Programming (OOP) principles, specifically encapsulation, with a simple BankAccount class in Java. The BankAccount class allows the creation of a bank account with basic operations such as deposit and withdrawal.
 ## Encapsulation:
 The BankAccount class is designed to encapsulate the account owner's details and balance. The class defines private variables for the owner (Owner) and balance (balance), which are not directly accessible from outside the class. This ensures the integrity of the data and allows controlled access through public methods.
