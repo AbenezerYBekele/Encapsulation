@@ -22,9 +22,9 @@ public class BankAccount  {
 
     public boolean withdraw (double amount){
         if (amount > 0 && amount <= this.balance){
-        this.balance -= amount;
-        return true;
+            this.balance -= amount;
+            return true;
         }
-    return false;
+        return false;
     }
 }
